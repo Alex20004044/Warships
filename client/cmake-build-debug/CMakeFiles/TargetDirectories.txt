@@ -1,0 +1,3 @@
+/home/alex20004044/AOS Labs/Warships 6/client/cmake-build-debug/CMakeFiles/client.dir
+/home/alex20004044/AOS Labs/Warships 6/client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alex20004044/AOS Labs/Warships 6/client/cmake-build-debug/CMakeFiles/rebuild_cache.dir

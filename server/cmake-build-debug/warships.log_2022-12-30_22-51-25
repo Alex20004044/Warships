@@ -1,0 +1,30 @@
+Master started logging
+Got IPC KEY for shared memory
+Got semaphore ID
+Got shared memory ID
+Attached shared memory with id
+458807
+Created socket
+Bind socket
+Listen...
+New connection request. Socket fd is 3 , ip is : 127.0.0.1 , port : 52440
+Connection allowed
+Adding to list of sockets as 0
+Send to client: You connected to Warships server
+New connection request. Socket fd is 4 , ip is : 127.0.0.1 , port : 45290
+Connection allowed
+Adding to list of sockets as 1
+Send to client: You connected to Warships server
+Send to client: Game is created
+Send to client message: unknown message type
+Send to client: Successively connect. Starting game...
+Send to client: Successively connect. Starting game...
+Send game data to players
+Send to client message: unknown message type
+Send to client: Game is not created. There no empty rooms on server. Try again later
+Send to client message: unknown message type
+Send to client: Can't connect there is no empty seat in lobby
+Cant connect, because there is no empty seat in lobby
+Send to client message: unknown message type
+Client disconnected
+Client disconnected. Ip 127.0.0.1, port 52440
